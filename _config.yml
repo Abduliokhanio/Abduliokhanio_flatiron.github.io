@@ -1,11 +1,11 @@
 # Site settings
 author: Abdul Khan
-title: 
+title: Why I chose to be a software engineer
 header-img: img/home-bg.png
 email: akhan17@outlook.com
 copyright_name: Abdul Khan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  And why you should also
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Abduliokhanio
