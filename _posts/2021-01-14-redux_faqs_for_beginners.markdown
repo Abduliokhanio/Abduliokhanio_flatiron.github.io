@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "REDUX FAQs For Beginners"
-date:       2021-01-14 21:46:44 +0000
+date:       2021-01-14 16:46:45 -0500
 permalink:  redux_faqs_for_beginners
 ---
 
+Link to Blog: https://abdulkhan-81904.medium.com/redux-faqs-for-beginners-195ed82552cc
 
 What is Redux?
 Redux according to the official doc’s “is a pattern and library for managing nd updating application state, using events called “actions”” It helps you manage global state. So that you can call &/or update information through out your application.
