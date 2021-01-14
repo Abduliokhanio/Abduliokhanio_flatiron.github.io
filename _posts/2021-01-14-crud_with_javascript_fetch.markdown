@@ -1,10 +1,12 @@
 ---
 layout: post
 title:      "CRUD with JavaScript FETCH"
-date:       2021-01-14 21:43:37 +0000
+date:       2021-01-14 16:43:38 -0500
 permalink:  crud_with_javascript_fetch
 ---
 
+
+Link to Blog: https://abdulkhan-81904.medium.com/crud-with-javascript-fetch-6162029c1eb1
 
 Today we are going to learn about building a SPA (Single Page Application) Crud application using Fetch. We need to be able to send and receive JSON from the DB. This is what allows the CRUD functionality. Keeping this core principle in mind. You will be able to create any kind of application that you want.
 Think of this functionality as the HEART of any SPA crud application that you want to build.
