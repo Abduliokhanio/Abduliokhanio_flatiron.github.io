@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "RAILS |CRUD|Overview"
-date:       2021-01-14 21:41:00 +0000
+date:       2021-01-14 16:41:00 -0500
 permalink:  rails_crud_overview
 ---
 
-
+Link to Medium Blog: https://abdulkhan-81904.medium.com/rails-crud-overview-29deb4bd1e5a
 GOAL:
 Our goal here is to build a content management system (CRUD application) using rails.
 Disclaimers:
@@ -223,4 +223,4 @@ Conclusion:
 The main steps of our rails application are completed and working properly. If you followed this guide. You will have a pretty decent understanding of what’s going on in rails enough to build your own CRUD application. Though your application & code may not look completely like mine. Don’t worry and just have fun with it.
 
 
-Link to Medium Blog: https://abdulkhan-81904.medium.com/rails-crud-overview-29deb4bd1e5a
+
