@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "React Life Cycle Methods"
-date:       2021-01-14 21:45:58 +0000
+date:       2021-01-14 16:45:59 -0500
 permalink:  react_life_cycle_methods
 ---
 
-
+Link to Blog: https://abdulkhan-81904.medium.com/react-life-cycle-methods-d42e333c12cb
 What are Life Cycles?
 React has 3 main phases Mounting, Updating, and Unmounting. Lets start with Mounting
 Mounting
